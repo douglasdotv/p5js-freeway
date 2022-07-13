@@ -15,4 +15,10 @@ function draw() {
   verificaColisoes();
   pontuacao();
   marcaPontos();
+  tutorial();
+}
+
+function tutorial() {
+   textSize(12);
+  text('Utilize as setas cima e baixo para movimentar o personagem.', 299, 386);
 }
