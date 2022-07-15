@@ -1,7 +1,8 @@
-//imagens utilizadas no jogo
+//imagens
 let imgEstrada;
 let imgPersonagem;
 let imgCarros;
+//sons
 let somTrilha;
 let somColisao;
 let somPontos;
