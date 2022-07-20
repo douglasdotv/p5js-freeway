@@ -19,6 +19,6 @@ function draw() {
 }
 
 function tutorial() {
-   textSize(12);
+  textSize(12);
   text('Utilize as setas cima e baixo para movimentar o personagem.', 299, 386);
 }
